@@ -1,2 +1,3 @@
 # hello-world
-This is simple hello world program
+
+Hello, This is simple hello world text file and repository example.  
